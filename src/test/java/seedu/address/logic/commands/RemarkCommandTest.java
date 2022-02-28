@@ -127,4 +127,5 @@ class RemarkCommandTest {
         assertFalse(standardCommand.equals(new RemarkCommand(INDEX_FIRST_PERSON,
                 new Remark(VALID_REMARK_BOB))));
     }
+
 }
