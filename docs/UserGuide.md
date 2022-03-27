@@ -416,7 +416,9 @@ Types of modification that will be undone:
   * [Deleting transactions](#delete-transaction-deletetransaction)
   * [Editing or removing any field value of ](#edit-client-edit)
   * [Adding membership](#add-membership-addmembership)
-  
+
+</div>
+
 ### Exit Program (`exit`)
 
 Exits the program.
